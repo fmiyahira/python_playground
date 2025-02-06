@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# MyPy type checker
+.mypy_cache/
+
+# PyCharm IDE files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Compiled C extensions
+*.so
+
+# Profile data
+.prof
+
+# Uvicorn log files (if running FastAPI)
+uvicorn.log
